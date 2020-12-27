@@ -1,2 +1,2 @@
 # blockedhosts
-hosts file
+hosts file based on https://github.com/StevenBlack/hosts
