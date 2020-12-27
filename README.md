@@ -1,0 +1,2 @@
+# blockedhosts
+hosts file
