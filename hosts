@@ -29,6 +29,12 @@
 0.0.0.0 yandexadexchange.net
 0.0.0.0 mobile.yandexadexchange.net
 
+0.0.0.0 advertising.yandex.ru
+0.0.0.0 bs-meta.yandex.ru
+0.0.0.0 ms.yandex.ru
+0.0.0.0 ttnet.yandex.com.tr
+0.0.0.0 www.ttnet.yandex.com.tr
+
 # [mail.ru]
 0.0.0.0 ad.mail.ru
 
@@ -92,3 +98,63 @@
 
 # [googleusercontent.com]
 0.0.0.0 displayads-formats.googleusercontent.com
+
+# [xiaomi.com]
+0.0.0.0 log.ad.xiaomi.com
+0.0.0.0 track.ad.xiaomi.com
+
+# [xiaomi.net]
+0.0.0.0 api.device.xiaomi.net
+
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 new.api.ad.xiaomi.com
+0.0.0.0 test.new.api.ad.xiaomi.com
+0.0.0.0 www.test.new.api.ad.xiaomi.com
+0.0.0.0 www.new.api.ad.xiaomi.com
+0.0.0.0 www.api.ad.xiaomi.com
+0.0.0.0 cdn.ad.xiaomi.com
+0.0.0.0 www.cdn.ad.xiaomi.com
+0.0.0.0 e.ad.xiaomi.com
+0.0.0.0 test.e.ad.xiaomi.com
+0.0.0.0 www.test.e.ad.xiaomi.com
+0.0.0.0 www.e.ad.xiaomi.com
+0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 www.globalapi.ad.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 www.sdkconfig.ad.xiaomi.com
+0.0.0.0 ssp.ad.xiaomi.com
+0.0.0.0 www.ssp.ad.xiaomi.com
+0.0.0.0 test.ad.xiaomi.com
+0.0.0.0 www.test.ad.xiaomi.com
+0.0.0.0 zeus.ad.xiaomi.com
+0.0.0.0 www.zeus.ad.xiaomi.com
+0.0.0.0 api.admob.xiaomi.com
+0.0.0.0 www.api.admob.xiaomi.com
+0.0.0.0 sgp.o2o.api.xiaomi.com
+0.0.0.0 www.sgp.o2o.api.xiaomi.com
+0.0.0.0 api.d.xiaomi.com
+0.0.0.0 www.api.d.xiaomi.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 www.api.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 www.sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 zeus.ad.intl.xiaomi.com
+0.0.0.0 www.zeus.ad.intl.xiaomi.com
+0.0.0.0 api.hybrid.intl.xiaomi.com
+0.0.0.0 www.api.hybrid.intl.xiaomi.com
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 www.data.mistat.intl.xiaomi.com
+0.0.0.0 storeconfig.mistat.intl.xiaomi.com
+0.0.0.0 www.storeconfig.mistat.intl.xiaomi.com
+0.0.0.0 cc.sys.intl.xiaomi.com
+0.0.0.0 www.cc.sys.intl.xiaomi.com
+0.0.0.0 ccc.sys.intl.xiaomi.com
+0.0.0.0 www.ccc.sys.intl.xiaomi.com
+0.0.0.0 abtest.mistat.xiaomi.com
+0.0.0.0 www.abtest.mistat.xiaomi.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 www.data.mistat.xiaomi.com
+0.0.0.0 a.stat.xiaomi.com
+0.0.0.0 ad.intl.xiaomi.com
+0.0.0.0 stat.xiaomi.com
+0.0.0.0 ad.xiaomi.com
