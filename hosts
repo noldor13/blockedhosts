@@ -1,3 +1,15 @@
+# [youtube.com]
+0.0.0.0 youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 googlevideo.com
+0.0.0.0 wide-youtube.l.google.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 www.youtube-nocookie.com
+0.0.0.0 s.ytimg.com
+0.0.0.0 youtu.be
+0.0.0.0 ytimg.l.google.com
+
 # [yandex.com]
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 redirect.appmetrica.yandex.com
